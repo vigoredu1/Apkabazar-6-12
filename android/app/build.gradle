@@ -49,7 +49,7 @@ android {
         applicationId "com.emistore.user"
         minSdkVersion 21
         targetSdkVersion 33
-        versionCode 300
+        versionCode 1000
         versionName flutterVersionName
         multiDexEnabled true
     }
